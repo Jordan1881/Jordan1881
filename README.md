@@ -1,7 +1,10 @@
 ![Header](./github-header-banner.png)
 <h3 align="center">B.Sc. Information Systems Student | Software Developer | AI & GenAI Builder</h3>
-<img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/Jordan1881/Jordan1881/main/coding-rounded.svg">
-
+<img 
+  align="right" 
+  alt="coding" 
+  width="350" 
+  src="https://raw.githubusercontent.com/Jordan1881/Jordan1881/main/Coding%20Work%20From%20Home%20GIF%20by%20Domme%20Space.gif">
 - 🔭 I’m currently working on **Next-generation AI productivity tools**
 
 - 🌱 I’m currently learning **Advanced Python, LLM Engineering, LangChain, System Design & Cloud Deployment**
