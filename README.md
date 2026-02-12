@@ -1,32 +1,31 @@
-# Hi, I'm Yarden Biton 👋
+![Header](./github-header-banner.png)
+<h1 align="center">Hi 👋, I'm Yarden Biton</h1>
+<h3 align="center">B.Sc. Information Systems Student | Software Developer | AI & GenAI Builder</h3>
+<img align=“right” alt=“coding” width=“400” src=“https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExajlxaXhhYjlpNHJzaTJ2dms4Y3RpbjRyMGhkdnA3dzl4bWpxNm5uMCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif”>
 
-**B.Sc. Information Systems (3rd year) | Software Development | AI & GenAI Builder**  
-I build practical projects in **Java, Python, and Web**, with a strong focus on clean structure, testing, and real-world problem solving.
+- 🔭 I’m currently working on **Next-generation AI productivity tools**
 
----
+- 🌱 I’m currently learning **Advanced Python, LLM Engineering, LangChain, System Design & Cloud Deployment**
 
-## 🚀 Featured Projects
+- 🤝 I’m looking for help with **Scaling AI Agents & Production Deployment**
 
-### 1) AI Summarizer Agent (Python)
-**What it does:** Upload content → generates structured summaries and key insights.  
-**Tech:** Python, (add: LangChain / Streamlit / etc.)  
-🔗 Repo: [https://github.com/<YOUR-USERNAME>/<REPO-NAME>](https://github.com/Jordan1881/Notesmith-AI.git)
+- 👨‍💻 All of my projects are available at [https://github.com/Jordan1881](https://github.com/Jordan1881)
 
-### 2) Vehicle Management System (Java OOP + GUI)
-**What it does:** Manage vehicles, owners, maintenance history + GUI (Swing).  
-**Tech:** Java, OOP, JUnit 5, Swing  
-🔗 Repo: [https://github.com/<YOUR-USERNAME>/<REPO-NAME>](https://github.com/Jordan1881/Vehicle-Project.git)
+- 💬 Ask me about **Java OOP, AI Agents, System Architecture, JUnit Testing, GenAI Applications**
 
+- 📫 How to reach me **jordanstu21@gmail.com**
 
----
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/yarden (jordan) biton" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yarden (jordan) biton" height="30" width="40" /></a>
+<a href="https://www.topcoder.com/members/10300" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="10300" height="30" width="40" /></a>
+</p>
 
-## 🧠 Skills
-- **Languages:** Java, Python, JavaScript
-- **Concepts:** OOP, Data Structures, Testing (JUnit), APIs, Git
-- **Interests:** AI Engineering, GenAI apps, Product-building
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
----
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jordan1881&show_icons=true&locale=en&layout=compact" alt="jordan1881" /></p>
 
-## 📫 Contact
-- LinkedIn:[ https://linkedin.com/in/yarden-biton-771026215](https://www.linkedin.com/in/yarden-biton-771026215/)
-- Email: jordanstu21@gmail.com
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jordan1881&show_icons=true&locale=en" alt="jordan1881" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jordan1881&" alt="jordan1881" /></p>
