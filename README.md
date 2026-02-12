@@ -1,6 +1,6 @@
 ![Header](./github-header-banner.png)
 <h3 align="center">B.Sc. Information Systems Student | Software Developer | AI & GenAI Builder</h3>
-<img align="right" alt="coding" width="400" style="border-radius: 20px; box-shadow: 0px 8px 25px rgba(0,0,0,0.3);" src="https://raw.githubusercontent.com/Jordan1881/Jordan1881/main/Work%20Coding%20GIF%20by%20Scaler.gif">
+<img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/Jordan1881/Jordan1881/main/coding-rounded.svg">
 
 - 🔭 I’m currently working on **Next-generation AI productivity tools**
 
