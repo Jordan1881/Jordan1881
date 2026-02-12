@@ -1,7 +1,7 @@
 ![Header](./github-header-banner.png)
 <h1 align="center">Hi 👋, I'm Yarden Biton</h1>
 <h3 align="center">B.Sc. Information Systems Student | Software Developer | AI & GenAI Builder</h3>
-<img align=“right” alt=“coding” width=“400” src=“https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExajlxaXhhYjlpNHJzaTJ2dms4Y3RpbjRyMGhkdnA3dzl4bWpxNm5uMCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif”>
+<img align=“right” alt=“coding” width=“400” src=“<img align=“right” alt=“coding” width=“400” src="Work Coding GIF by Scaler.gif">
 
 - 🔭 I’m currently working on **Next-generation AI productivity tools**
 
