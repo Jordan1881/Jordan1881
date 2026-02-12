@@ -1,4 +1,4 @@
-![Header](./github-header-banner.png)
+![Header](./Make your README.png)
 <h3 align="center">B.Sc. Information Systems Student | Software Developer | AI & GenAI Builder</h3>
 <img 
   align="right" 
