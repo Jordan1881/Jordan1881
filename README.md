@@ -4,7 +4,7 @@
 
 ### AI Engineer & Full Stack Developer
 
-<img src="./portfolio-hero.webp" alt="Portfolio Hero Animation" width="100%" style="border-radius: 16px;" />
+<img src="./portfolio-hero.webp" alt="Portfolio Hero Animation" width="100%" />
 
 [![Portfolio](https://img.shields.io/badge/🚀_Visit_My_Portfolio-0A66C2?style=for-the-badge&logo=vercel&logoColor=white)](https://portfoliojordan-liard.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yarden-biton-771026215)
